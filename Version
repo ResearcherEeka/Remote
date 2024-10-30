@@ -1,11 +1,11 @@
 {
-  "url": "https://api.github.com/repos/EslaMx7/ScreenTask/releases/60115070",
-  "assets_url": "https://api.github.com/repos/EslaMx7/ScreenTask/releases/60115070/assets",
+  "url": "https://researchereeka.github.io/Remote/Version",
+  "assets_url": "https://researchereeka.github.io/Remote/Version",
   "upload_url": "https://uploads.github.com/repos/EslaMx7/ScreenTask/releases/60115070/assets{?name,label}",
   "html_url": "https://github.com/EslaMx7/ScreenTask/releases/tag/v1.2",
   "id": 60115070,
   "author": {
-    "login": "EslaMx7",
+    "login": "researchereeka",
     "id": 1621149,
     "node_id": "MDQ6VXNlcjE2MjExNDk=",
     "avatar_url": "https://avatars.githubusercontent.com/u/1621149?v=4",
